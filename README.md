@@ -39,18 +39,48 @@ Open Storybook at http://localhost:6006 to view and interact with the components
 
 InputField
 
-Label and placeholder
+- Label and placeholder
 
-Helper text and error message (partially implemented)
+- Helper text and error message (partially implemented)
 
-Disabled state
+- Disabled state
 
-Clear button ✕
+- Clear button ✕
 
-Password toggle 👁️
+- Password toggle 👁️
 
-Size variants: sm, md, lg
+- Size variants: sm, md, lg
 
-Visual variants: outlined, filled, ghost
-   
+- Visual variants: outlined, filled, ghost
 
+DataTable
+
+- Column sorting (ascending/descending)
+
+- Selectable rows with checkboxes
+
+- Loading and empty states
+
+- Highlight selected rows
+
+- Fully responsive table layout
+
+---
+
+📦 Storybook Deployment
+
+Live Storybook preview: https://react-ui-assignment-five.vercel.app
+
+---
+
+💡 Known Limitation
+
+- The InputField error message feature is partially implemented. All other features are fully functional.
+
+---
+
+📝 Notes
+
+- Components are written in TypeScript with TailwindCSS for styling.
+- Storybook demonstrates all interactive states and component variations.
+- This project is submitted for internship assignment evaluation.
