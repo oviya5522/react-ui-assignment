@@ -20,10 +20,37 @@ InputField.stories.tsx
 DataTable.stories.tsx
 
 ---
+⚡ Setup & Run
 
-## ⚡ Setup & Run
+1. Install dependencies
+   ```bash
+        npm install
+2. Run development server
+   ```bash
+   npm run dev
+3. Run Storybook locally
+    ```bash
+   npm run storybook
+Open Storybook at http://localhost:6006 to view and interact with the components.
 
-1. Install dependencies:
+---
 
-```bash
-npm install
+🛠 Features
+
+InputField
+
+Label and placeholder
+
+Helper text and error message (partially implemented)
+
+Disabled state
+
+Clear button ✕
+
+Password toggle 👁️
+
+Size variants: sm, md, lg
+
+Visual variants: outlined, filled, ghost
+   
+
